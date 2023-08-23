@@ -17,15 +17,15 @@ Make sure you have nvidia docker in your machine for GPU support.
 
 
 4. Folder structure is \
--Data \
---ApplePie \
---BagelSandwich \
---Bibimbop \
---Bread \
---FriedRice \
---Pork \
--train.py \
--README.md 
+`-Data \
+----ApplePie \
+----BagelSandwich \
+----Bibimbop \
+----Bread \
+----FriedRice \
+----Pork \
+----train.py \
+-README.md `
 
 5. Run `train.py` file for training model.
 
