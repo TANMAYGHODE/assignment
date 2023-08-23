@@ -24,11 +24,12 @@ Make sure you have nvidia docker in your machine for GPU support.
 `----Bread` \
 `----FriedRice` \
 `----Pork` \
-`----train.py` \
--README.md `
+`-train.py` \
+`-infer.py` \
+-`README.md `
 
-5. Run `train.py` file for training model.
+6. Run `train.py` file for training model.
 
-6. To infer the model run `infer.py` using `Data` as the folder.
+7. To infer the model run `infer.py` using `Data` as the folder.
 
 
