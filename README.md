@@ -25,7 +25,7 @@ Make sure you have nvidia docker in your machine for GPU support.
 --FriedRice \
 --Pork \
 -train.py \
--README.md \
+-README.md 
 
 5. Run `train.py` file for training model.
 
